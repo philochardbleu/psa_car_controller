@@ -1,4 +1,11 @@
 - !ElecModel
+  name: ë-C3
+  battery_power: 44
+  fuel_capacity: 0
+  abrp_name: citroen:ec3:24:44
+  reg: VR7CBZYA6R.*
+  max_elec_consumption: 70
+- !ElecModel
   name: e-3008
   battery_power: 73
   fuel_capacity: 0
